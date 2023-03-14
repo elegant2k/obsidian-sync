@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e922d5e0861bf52d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "40b5bb386c56940e",
@@ -96,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e922d5e0861bf52d",
+  "active": "2d370c36f68c2ff5",
   "lastOpenFiles": [
-    "This is a test.md",
     "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-14 22.44.56.excalidraw.png",
+    "This is a test.md",
+    "README.md",
     "Excalidraw",
     "The Odin Project/CSS.md",
     "The Odin Project/The Odin Project - Journal.md",
@@ -179,7 +166,6 @@
     "The Odin Project",
     "Aktiv handling/ToDo.md",
     "Aktiv handling/Kanban.md",
-    "Aktiv handling",
-    "README.md"
+    "Aktiv handling"
   ]
 }
