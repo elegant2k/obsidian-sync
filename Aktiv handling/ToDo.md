@@ -1,6 +1,0 @@
-- [x] Gjør klar penn ✅ 2023-03-08
-- [x] gjøre klar ark ⏫ 📅 2023-03-08 ✅ 2023-03-08
-- [ ] skriv 1 side med notater🛫 2023-03-08 
-- [ ] legge til transportør i drop-down liste ⏫ 
-- [ ] legge til avtalt lossetid⏫ 
-- [ ] 

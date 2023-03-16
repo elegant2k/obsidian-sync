@@ -11,12 +11,8 @@
             "id": "35d417bf4be11292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Odin Project/HTML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Odin Project/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Odin Project/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Odin Project/HTML.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35d417bf4be11292",
+  "active": "2d370c36f68c2ff5",
   "lastOpenFiles": [
     "The Odin Project/CSS.md",
     "The Odin Project/HTML.md",
